@@ -2,6 +2,9 @@
 
 Hemm is a library for performing comprehensive benchmark of text-to-image diffusion models on image quality and prompt comprehension integrated with [Weights & Biases](https://wandb.ai/site) and [Weave](https://wandb.github.io/weave/). Hemm is inspired by [Holistic Evaluation of Text-To-Image Models](https://crfm.stanford.edu/helm/heim/v1.0.0/).
 
+> [!IMPORTANT]  
+> The ownership of Hemm has been turned over to the [Weights & Biases](https://github.com/wandb) organization. All development will henceforth continue on https://github.com/wandb/Hemm and docs will be visible on https://wandb.github.io/Hemm/ and https://github.com/soumik12345/Hemm is hereby archived.
+
 ## Installation
 
 ```shell
